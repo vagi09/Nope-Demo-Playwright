@@ -1,0 +1,15 @@
+{
+    "applicationUsers": {
+        "primaryUser": {
+            "userId": "tomhanks@gmail.com",
+            "password": "123456789"
+        },
+        "secondaryUser": {
+            "userId": "",
+            "password": ""
+        }
+    },
+    "baseUrl": "https://demo.nopcommerce.com/",
+    "homePageUrl": "",
+    "loginUrl": ""
+}
